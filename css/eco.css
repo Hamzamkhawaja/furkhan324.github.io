@@ -133,7 +133,7 @@ header .navbar-default.scrolled .navbar-brand {
   padding: ;
 }
 header .navbar-default.scrolled .navbar-brand img {
-  width: 153px;
+  width: 300px;
   max-height: 93px;
 }
 header .navbar-default.scrolled ul.navbar-nav {
@@ -1116,3 +1116,4 @@ form .form-control:focus {
   background-image: url(Wallpaper-min.png);
     background-size: cover;
 }
+br
